@@ -1,0 +1,15 @@
+D:\Tugas\SEMESTER 5\CalculatorApp\bin\Debug\net6.0\CalculatorApp.exe
+D:\Tugas\SEMESTER 5\CalculatorApp\bin\Debug\net6.0\CalculatorApp.deps.json
+D:\Tugas\SEMESTER 5\CalculatorApp\bin\Debug\net6.0\CalculatorApp.runtimeconfig.json
+D:\Tugas\SEMESTER 5\CalculatorApp\bin\Debug\net6.0\CalculatorApp.dll
+D:\Tugas\SEMESTER 5\CalculatorApp\bin\Debug\net6.0\CalculatorApp.pdb
+D:\Tugas\SEMESTER 5\CalculatorApp\obj\Debug\net6.0\CalculatorApp.csproj.AssemblyReference.cache
+D:\Tugas\SEMESTER 5\CalculatorApp\obj\Debug\net6.0\CalculatorApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tugas\SEMESTER 5\CalculatorApp\obj\Debug\net6.0\CalculatorApp.AssemblyInfoInputs.cache
+D:\Tugas\SEMESTER 5\CalculatorApp\obj\Debug\net6.0\CalculatorApp.AssemblyInfo.cs
+D:\Tugas\SEMESTER 5\CalculatorApp\obj\Debug\net6.0\CalculatorApp.csproj.CoreCompileInputs.cache
+D:\Tugas\SEMESTER 5\CalculatorApp\obj\Debug\net6.0\CalculatorApp.dll
+D:\Tugas\SEMESTER 5\CalculatorApp\obj\Debug\net6.0\refint\CalculatorApp.dll
+D:\Tugas\SEMESTER 5\CalculatorApp\obj\Debug\net6.0\CalculatorApp.pdb
+D:\Tugas\SEMESTER 5\CalculatorApp\obj\Debug\net6.0\CalculatorApp.genruntimeconfig.cache
+D:\Tugas\SEMESTER 5\CalculatorApp\obj\Debug\net6.0\ref\CalculatorApp.dll
